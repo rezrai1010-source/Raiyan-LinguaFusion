@@ -1,0 +1,2 @@
+# Raiyans-LinguaFusion
+LinguaFusion font
