@@ -1,5 +1,5 @@
 <img width="77" height="74" alt="Screenshot 2026-05-03 at 1 26 33 PM" src="https://github.com/user-attachments/assets/0ca32915-d8a0-4597-af21-8a402b923eaa" /> LinguaFusion's Ɤ.
-it <img width="454" height="190" alt="Screenshot 2026-05-03 at 1 57 49 PM" src="https://github.com/user-attachments/assets/18145880-69c7-42d2-82a3-f60a869307b9" /> LinguaFusionsꟚꟛꟜ.
+<img width="454" height="190" alt="Screenshot 2026-05-03 at 1 57 49 PM" src="https://github.com/user-attachments/assets/18145880-69c7-42d2-82a3-f60a869307b9" /> LinguaFusionsꟚꟛꟜ.
 # Raiyans-LinguaFusion font
 LinguaFusion font.
 This is a handwritten font made by me Raiyan Sheikh. I used the iFontMaker app to make this font.
