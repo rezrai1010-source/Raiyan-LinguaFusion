@@ -1,7 +1,7 @@
 <img width="77" height="74" alt="Screenshot 2026-05-03 at 1 26 33 PM" src="https://github.com/user-attachments/assets/0ca32915-d8a0-4597-af21-8a402b923eaa" /> LinguaFusion's Ɤ
 # Raiyans-LinguaFusion font
 LinguaFusion font.
-This is a handwritten font made by me Raiyan Sheikh.
+This is a handwritten font made by me Raiyan Sheikh. I used the iFontMaker app to make this font.
 You can download it from iFontMaker gallery or this page.
 I'm planning to make it into Google fonts in September 2026!
 So why did I make this font?
