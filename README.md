@@ -13,7 +13,7 @@ Sadly, not all letters appear in handwritten fonts in Google fonts (Besides Play
 While most African letters appear in around 40 Google fonts there is one African letter that appears in only 9 google fonts!
 In fact Noto Sans (while it was supposed to be no tofu) displays it as tofu!
 The one I'm talking about is Latin capital letter rams horn (U+A7CB) or Ɤ.
-In is used in the Eastern Dan language which has 800,000 speakers?? And yet in no operating system it's not tofu?
+It is used in the Eastern Dan language which has 800,000 speakers?? And yet in no operating system it's not tofu?
 This is sad and I mean very sad. Why would one letter used by the language of 800,000 speakers be supported in 9 google fonts which doesn't include Noto Sans and every operating system displays it as tofu? I don't understand it! 
 Developers of Noto Sans if you are seeing this I URGE you to add it now! 
 Fortunately LinguaFusion does support Ɤ!
