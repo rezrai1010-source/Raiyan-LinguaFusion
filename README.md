@@ -1,4 +1,5 @@
-<img width="77" height="74" alt="Screenshot 2026-05-03 at 1 26 33 PM" src="https://github.com/user-attachments/assets/0ca32915-d8a0-4597-af21-8a402b923eaa" /> LinguaFusion's Ɤ
+<img width="77" height="74" alt="Screenshot 2026-05-03 at 1 26 33 PM" src="https://github.com/user-attachments/assets/0ca32915-d8a0-4597-af21-8a402b923eaa" /> LinguaFusion's Ɤ.
+it <img width="454" height="190" alt="Screenshot 2026-05-03 at 1 57 49 PM" src="https://github.com/user-attachments/assets/18145880-69c7-42d2-82a3-f60a869307b9" /> LinguaFusionsꟚꟛꟜ.
 # Raiyans-LinguaFusion font
 LinguaFusion font.
 This is a handwritten font made by me Raiyan Sheikh. I used the iFontMaker app to make this font.
@@ -20,7 +21,7 @@ Developers of Noto Sans if you are seeing this I URGE you to add it now!
 Fortunately LinguaFusion does support Ɤ!
 Noto Sans promised no tofu but made Ɤ tofu! You can help by asking Google millions of times to add it!
 I'm pretty sure you're seeing this letter as tofu right now!
-If you thought that was it well it's not. 
+If you thought that was it, it's not. 
 The Heiltsuk language or Háiɫzaqvḷa is a CRITICALLY ENDANGERED LANGUAGE!
 I don't include any combining diacritics but I do have PUA characters for Háiɫzaqvḷa letters like q̓c̓t̓ƛ̓w̓y̓x̌ etc. For example the PUA character E61E looks like q̓ in LinguaFusion.
 While Aboriginal Sans has Combining Diacritical Marks unlike LinguaFusion it also does the same technique I use. 
@@ -32,3 +33,4 @@ All 3 letters combined unfortunately only appear in 6 fonts (Which again doesn't
 And it's challenging to find any Handwritten font with these letters.
 But once again LinguaFusion supports Ꟛ	ꟛ	Ƛ!
 Also Noto Sans developers PLEASE add Ꟛ	ꟛ	Ƛ! The Háiɫzaqvḷa community actually needs it!
+
