@@ -19,3 +19,4 @@ This is sad and I mean very sad. Why would one letter used by the language of 80
 Developers of Noto Sans if you are seeing this I URGE you to add it now! 
 Fortunately LinguaFusion does support Ɤ!
 Noto Sans promised no tofu but made Ɤ tofu! You can help by asking Google millions of times to add it!
+I'm pretty sure you're seeing this letter as tofu right now!
