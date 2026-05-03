@@ -24,6 +24,7 @@ I'm pretty sure you're seeing this letter as tofu right now!
 If you thought that was it, it's not. 
 The Heiltsuk language or Háiɫzaqvḷa is a CRITICALLY ENDANGERED LANGUAGE!
 I don't include any combining diacritics but I do have PUA characters for Háiɫzaqvḷa letters like q̓c̓t̓ƛ̓w̓y̓x̌ etc. For example the PUA character E61E looks like q̓ in LinguaFusion.
+Also soon before I publish it into Google fonts I will try to make q̓ typed by adding q with the combining comma as a ligature!
 While Aboriginal Sans has Combining Diacritical Marks unlike LinguaFusion it also does the same technique I use. 
 For example F7EB in PUA looks like q̓ in Aboriginal Sans.
 But wait that's not the problem as Noto Sans does support Combining Diacritical Marks. 
