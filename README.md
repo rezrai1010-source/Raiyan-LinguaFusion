@@ -20,3 +20,15 @@ Developers of Noto Sans if you are seeing this I URGE you to add it now!
 Fortunately LinguaFusion does support Ɤ!
 Noto Sans promised no tofu but made Ɤ tofu! You can help by asking Google millions of times to add it!
 I'm pretty sure you're seeing this letter as tofu right now!
+If you thought that was it well it's not. 
+The Heiltsuk language or Háiɫzaqvḷa is a CRITICALLY ENDANGERED LANGUAGE!
+I don't include any combining diacritics but I do have PUA characters for Háiɫzaqvḷa letters like q̓c̓t̓ƛ̓w̓y̓x̌ etc. For example the PUA character E61E looks like q̓ in LinguaFusion.
+While Aboriginal Sans has Combining Diacritical Marks unlike LinguaFusion it also does the same technique I use. 
+For example F7EB in PUA looks like q̓ in Aboriginal Sans.
+But wait that's not the problem as Noto Sans does support Combining Diacritical Marks. 
+(Note using PUA characters also work)
+But I'm talking about the absence of Ꟛ	ꟛ	Ƛ (pretty important letters for Heiltsuk.)
+All 3 letters combined unfortunately only appear in 6 fonts (Which again doesn't include Noto Sans!)
+And it's challenging to find any Handwritten font with these letters.
+But once again LinguaFusion supports Ꟛ	ꟛ	Ƛ!
+Also Noto Sans developers PLEASE add Ꟛ	ꟛ	Ƛ! The Háiɫzaqvḷa community actually needs it!
