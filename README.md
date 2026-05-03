@@ -3,3 +3,18 @@ LinguaFusion font.
 This is a handwritten font made by me Raiyan Sheikh.
 You can download it from iFontMaker gallery or this page.
 I'm planning to make it into Google fonts in September 2026!
+So why did I make this font?
+Well one reason is to mainly solve a problem.
+You see many handwritten fonts don't support useful African letters.
+For example Akan is a language that has millions of speakers.
+Its alphabet has two letters not found in the English alphabet (Ɛɛ and Ɔɔ).
+There are more African alphabets too.
+Sadly, not all letters appear in handwritten fonts in Google fonts (Besides Playpen Sans) 
+While most African letters appear in around 40 Google fonts there is one African letter that appears in only 9 google fonts!
+In fact Noto Sans (while it was supposed to be no tofu) displays it as tofu!
+The one I'm talking about is Latin capital letter rams horn (U+A7CB) or Ɤ.
+In is used in the Eastern Dan language which has 800,000 speakers?? And yet in no operating system it's not tofu?
+This is sad and I mean very sad. Why would one letter used by the language of 800,000 speakers be supported in 9 google fonts which doesn't include Noto Sans and every operating system displays it as tofu? I don't understand it! 
+Developers of Noto Sans if you are seeing this I URGE you to add it now! 
+Fortunately LinguaFusion does support Ɤ!
+Noto Sans promised no tofu but made Ɤ tofu! You can help by asking Google millions of times to add it!
