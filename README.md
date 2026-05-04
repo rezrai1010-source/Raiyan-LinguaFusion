@@ -33,5 +33,5 @@ But I'm talking about the absence of Ꟛ	ꟛ	Ƛ (pretty important letters for H
 All 3 letters combined unfortunately only appear in 6 fonts (Which again doesn't include Noto Sans!)
 And it's challenging to find any Handwritten font with these letters.
 But once again LinguaFusion supports Ꟛ	ꟛ	Ƛ!
-Also Noto Sans developers PLEASE add Ꟛ	ꟛ	Ƛ! The Háiɫzaqvḷa community actually needs it!
+Also Noto Sans developers PLEASE add Ꟛ	ꟛ	Ƛ! The Háiɫzaqvḷa nation actually needs it!
 
