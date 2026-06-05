@@ -15,8 +15,8 @@ Sadly, not all letters appear in handwritten fonts in Google fonts (Besides Play
 While most African letters appear in around 40 Google fonts there is one African letter that appears in only 9 google fonts!
 In fact Noto Sans (while it was supposed to be no tofu) displays it as tofu!
 The one I'm talking about is Latin capital letter rams horn (U+A7CB) or Ɤ.
-It is used in the Eastern Dan language which has 800,000 speakers?? And yet in no operating system it's not tofu?
-This is sad and I mean very sad. Why would one letter used by the language of 800,000 speakers be supported in only 9 google fonts which doesn't include Noto Sans and every operating system displays it as tofu? I don't understand it! 
+It is used in the Eastern Dan language which has 800,000 speakers?? And yet in no operating system but Windows it's not tofu?
+This is sad and I mean very sad. Why would one letter used by the language of 800,000 speakers be supported in only 9 google fonts which doesn't include Noto Sans and every operating system but Windows displays it as tofu? I don't understand it! 
 Developers of Noto Sans if you are seeing this I URGE you to add it now! 
 Fortunately LinguaFusion does support Ɤ!
 Noto Sans promised no tofu but made Ɤ tofu! You can help by asking Google millions of times to add it!
@@ -29,7 +29,7 @@ While Aboriginal Sans has Combining Diacritical Marks unlike LinguaFusion it als
 For example F7EB in PUA looks like q̓ in Aboriginal Sans.
 But wait that's not the problem as Noto Sans does support Combining Diacritical Marks. 
 (Note using PUA characters also work)
-But I'm talking about the absence of Ꟛ	ꟛ	Ƛ (pretty important letters for Heiltsuk.)
+But I'm talking about the absence of Ꟛ	ꟛ	Ƛ (pretty important letters for Heiltsuk.)In fact AGAIN only Windows supports these characters!!!!!
 All 3 letters combined unfortunately only appear in 6 fonts (Which again doesn't include Noto Sans!)
 And it's challenging to find any Handwritten font with these letters.
 But once again LinguaFusion supports Ꟛ	ꟛ	Ƛ!
